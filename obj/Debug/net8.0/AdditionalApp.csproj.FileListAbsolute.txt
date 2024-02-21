@@ -1,0 +1,15 @@
+C:\Users\rasmu\source\repos\AdditionalApp\bin\Debug\net8.0\AdditionalApp.exe
+C:\Users\rasmu\source\repos\AdditionalApp\bin\Debug\net8.0\AdditionalApp.deps.json
+C:\Users\rasmu\source\repos\AdditionalApp\bin\Debug\net8.0\AdditionalApp.runtimeconfig.json
+C:\Users\rasmu\source\repos\AdditionalApp\bin\Debug\net8.0\AdditionalApp.dll
+C:\Users\rasmu\source\repos\AdditionalApp\bin\Debug\net8.0\AdditionalApp.pdb
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\AdditionalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\AdditionalApp.AssemblyInfoInputs.cache
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\AdditionalApp.AssemblyInfo.cs
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\AdditionalApp.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\AdditionalApp.sourcelink.json
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\AdditionalApp.dll
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\refint\AdditionalApp.dll
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\AdditionalApp.pdb
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\AdditionalApp.genruntimeconfig.cache
+C:\Users\rasmu\source\repos\AdditionalApp\obj\Debug\net8.0\ref\AdditionalApp.dll
